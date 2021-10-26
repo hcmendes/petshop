@@ -1,6 +1,6 @@
 # PETSHOP
 
-API criada para prática de testes unitários e estilização do código com eslint
+Projeto pessoal criado para praticar testes unitários, eslint e github actions
 
 Desenvolvido através do curso 
 [NodeJS: Adicionando CI ao projeto e deploy no Google Cloud](https://www.alura.com.br/curso-online-nodejs-adicionando-ci-projeto-deploy-google-cloud), e outras fontes.
